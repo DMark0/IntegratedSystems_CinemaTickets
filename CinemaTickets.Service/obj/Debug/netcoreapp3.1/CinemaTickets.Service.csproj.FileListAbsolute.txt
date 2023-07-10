@@ -1,0 +1,89 @@
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.AssemblyReference.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfoInputs.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfo.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CoreCompileInputs.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.deps.json
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CopyComplete
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+D:\IS PROEKT\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.deps.json
+D:\IS PROEKT\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+D:\IS PROEKT\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+D:\IS PROEKT\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+D:\IS PROEKT\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+D:\IS PROEKT\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+D:\IS PROEKT\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+D:\IS PROEKT\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.AssemblyReference.cache
+D:\IS PROEKT\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\IS PROEKT\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfoInputs.cache
+D:\IS PROEKT\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfo.cs
+D:\IS PROEKT\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CoreCompileInputs.cache
+D:\IS PROEKT\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CopyComplete
+D:\IS PROEKT\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+D:\IS PROEKT\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.deps.json
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.AssemblyReference.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfoInputs.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfo.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CoreCompileInputs.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CopyComplete
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.deps.json
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.AssemblyReference.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfoInputs.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfo.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CoreCompileInputs.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CopyComplete
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.deps.json
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.AssemblyReference.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfoInputs.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfo.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CoreCompileInputs.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CopyComplete
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.deps.json
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.AssemblyReference.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfoInputs.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.AssemblyInfo.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CoreCompileInputs.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.csproj.CopyComplete
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Service\obj\Debug\netcoreapp3.1\CinemaTickets.Service.pdb

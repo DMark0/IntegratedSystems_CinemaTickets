@@ -1,0 +1,1300 @@
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.AssemblyReference.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfoInputs.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfo.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CoreCompileInputs.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.Manifest.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.xml
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\CinemaTickets.Web.styles.css
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.input.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.output.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorCoreGenerate.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.StaticWebAssets.xml
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.exe
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.deps.json
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.json
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.dev.json
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CopyComplete
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.genruntimeconfig.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\AddTicketToCard.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Create.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Delete.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Details.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Edit.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Index.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\Index.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\CinemaTickets.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.AspNet.Mvc.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.StaticWebAssets.xml
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.exe
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.deps.json
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.json
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.dev.json
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Stripe.net.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.AspNet.Mvc.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.AssemblyReference.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfoInputs.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfo.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CoreCompileInputs.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.Manifest.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.xml
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.input.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.output.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorCoreGenerate.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\Index.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\CinemaTickets.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\AddTicketToCard.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Create.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Delete.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Details.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Edit.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Index.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cache
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cs
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CopyComplete
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.genruntimeconfig.cache
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.StaticWebAssets.xml
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.exe
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.deps.json
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.json
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.dev.json
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.AspNet.Mvc.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.AssemblyReference.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfoInputs.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfo.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CoreCompileInputs.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.Manifest.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.xml
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\CinemaTickets.Web.styles.css
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.input.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.output.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorCoreGenerate.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\Index.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\CinemaTickets.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\AddTicketToCard.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Create.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Delete.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Details.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Edit.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Index.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cache
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cs
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CopyComplete
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\Users\petko\Desktop\finki\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.genruntimeconfig.cache
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\38977\source\repos\CinemaTicketsISHW\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\nlog.config
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\IS PROEKT\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\IS PROEKT\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.StaticWebAssets.xml
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.exe
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.deps.json
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.json
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.dev.json
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.AspNet.Mvc.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.AssemblyReference.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfoInputs.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfo.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CoreCompileInputs.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.Manifest.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.xml
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\CinemaTickets.Web.styles.css
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.input.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.output.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorCoreGenerate.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\Index.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\CinemaTickets.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\AddTicketToCard.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Create.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Delete.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Details.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Edit.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Index.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cache
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cs
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CopyComplete
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\Users\petko\Desktop\IntegiraniSistemi\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.genruntimeconfig.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.StaticWebAssets.xml
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.exe
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.deps.json
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.json
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.dev.json
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.AspNet.Mvc.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.AssemblyReference.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfoInputs.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfo.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CoreCompileInputs.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.Manifest.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.xml
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\CinemaTickets.Web.styles.css
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.input.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.output.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorCoreGenerate.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\Index.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\CinemaTickets.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\AddTicketToCard.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Create.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Delete.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Details.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Edit.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Index.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cache
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cs
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CopyComplete
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\Users\marko\Downloads\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTicketsApplication-ISHWSistemiProekt-main\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.genruntimeconfig.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\nlog.config
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.StaticWebAssets.xml
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.exe
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.deps.json
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.json
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.runtimeconfig.dev.json
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\Twilio.AspNet.Mvc.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\bin\Debug\netcoreapp3.1\CinemaTickets.Service.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.AssemblyReference.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfoInputs.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.AssemblyInfo.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CoreCompileInputs.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorAssemblyInfo.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.Manifest.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTickets.Web.StaticWebAssets.xml
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\CinemaTickets.Web.styles.css
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.input.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.TagHelpers.output.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorCoreGenerate.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\AddTicketToCard.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Create.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Delete.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Details.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Edit.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\CinemaTickets\Index.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\CinemaTickets.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\FilmInf\Index.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cache
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.RazorTargetAssemblyInfo.cs
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.Views.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.csproj.CopyComplete
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.dll
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.pdb
+C:\DATA\dev\IS\CinemaTickets\CinemaTickets.Web\obj\Debug\netcoreapp3.1\CinemaTickets.Web.genruntimeconfig.cache

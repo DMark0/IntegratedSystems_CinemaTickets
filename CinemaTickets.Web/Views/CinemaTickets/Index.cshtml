@@ -1,0 +1,103 @@
+﻿@model IEnumerable<CinemaTickets.Domain.Models.CinemaTicketsFilm>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>CinemaTicketss</h1>
+@if (User.IsInRole("Administrators"))
+{
+    <div class="row">
+        <div class="col-md-2">
+            <a asp-action="Create" class="btn btn-lg btn-outline-primary btn-block mt-4">Create New</a>
+        </div>
+        <div class="col-md-6">
+                <form asp-controller="CinemaTickets" asp-action="ImportCinemaTicketss" method="post" enctype="multipart/form-data">
+                    <div style="border: 1px solid #B6FCF2; border-radius: 15px; padding: 10px; text-align: center; justify-items: center;">
+
+                        <input type="file" name="file" class="form-control"/>
+
+                        <button type="submit" class="btn btn-primary mt-2">Import File</button>
+
+
+                        <br />
+                    </div>
+
+                    <hr>
+
+                </form>
+        </div>
+    </div>
+}
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 p-2">
+            <div class="card" style="width: 19rem;">
+                <img class="card-img-top" src="@item.ImageURL" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h5>
+                    <a href="#" data-toggle="modal" data-target="#desc-@item.Id" class="link-info" style="display: inline">Read Description</a>
+                    @if (item.trailerURL != null)
+                    {
+                        <a href="#@item.Id" data-toggle="modal" data-target="#modal-@item.Id" class="link-info" style="display: inline"> | View Trailer</a>
+                    }
+                    <ul class="list-group list-group-flush pb-2">
+                        <li class="list-group-item">Date avaiable from: @Html.DisplayFor(modelItem => item.datum)</li>
+                        <li class="list-group-item">Genre: @Html.DisplayFor(modelItem => item.zanr)</li>
+                        <li class="list-group-item">Price: $@Html.DisplayFor(modelItem => item.Price)</li>
+                    </ul>
+                    <a asp-controller="CinemaTickets" asp-action="AddTicketToCard" asp-route-id="@item.Id" class="btn btn-info" style="display: inline">Add to Card</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" style="display: inline" class="btn btn-primary">Details</a>
+                    <br />
+                    <br />
+                    @if (User.IsInRole("Administrators"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id" style="display: inline" class="btn btn-outline-primary mt-4">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" style="display: inline" class="btn btn-outline-danger mt-4">Delete</a>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-@item.Id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">@item.Name</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <iframe width="460" height="315" src="@item.trailerURL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="desc-@item.Id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">@item.Name</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        @item.Description
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+

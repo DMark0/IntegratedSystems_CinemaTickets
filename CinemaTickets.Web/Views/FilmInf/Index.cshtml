@@ -1,0 +1,140 @@
+﻿@model CinemaTickets.Domain.Models.CinemaTicketsA
+
+<h1 style="height:50px"></h1>
+
+
+
+
+<div class="wrapper">
+    <div class="main_card">
+        <div class="card_left">
+            <div class="card_datails">
+                <h1>@Html.DisplayFor(item => item.Title)</h1>
+                <div class="card_cat">
+                    <p class="PG">@Html.DisplayFor(item => item.Rated)</p>
+                    <p class="year">@Html.DisplayFor(item => item.Year)</p>
+                    <p class="genre">@Html.DisplayFor(item => item.Genre)</p>
+                </div>
+                <p class="disc">@Html.DisplayFor(item => item.Plot)</p>
+                <a href="" target="_blank" data-toggle="modal" data-target="#readmore">Read More</a>
+                <div class="social-btn">
+                    <!-- WATCH TRAILER-->
+                    <button class="random-button" data-toggle="modal" data-target="#awards">
+                        <i class="fas fa-play"></i> AWARDS
+                    </button>
+                    <!-- GET-->
+                    <button class="random-button" data-toggle="modal" data-target="#imdb">
+                        <i class="fas fa-download"></i> IMDB RATINGS
+                    </button>
+                    <!--USERS RATINGS-->
+                    <button class="random-button" data-toggle="modal" data-target="#actors">
+
+                        <i class="fas fa-thumbs-up"></i> ACTORS
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="card_right">
+            <div class="img_container">
+                <img src="@Html.DisplayFor(item => item.Poster)" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+@if (User.IsInRole("Administrators"))
+{
+    <div class="d-flex justify-content-center">
+    <div class="w-50 p-1">
+        @if (Model.Added == false)
+        {
+            <a class="random-button" asp-controller="CinemaTickets" asp-action="AddCinemaTicketsFromApi"
+               asp-route-title=@Model.Title
+               asp-route-description=@Model.Plot
+               asp-route-genre=@Model.Genre
+               asp-route-image=@Model.Poster>Add this movie</a>
+        }
+    </div>
+</div>
+}
+
+<div class="modal fade" id="awards" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Awards</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>@Html.DisplayFor(item => item.Awards)</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="imdb" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Imdb Ratings</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Imdb rating: @Html.DisplayFor(item => item.imdbRating)/10</h5>
+                <h5>Total Votes: @Html.DisplayFor(item => item.imdbVotes)</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="readmore" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Read more</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Runtime: @Html.DisplayFor(item => item.Runtime)</h5>
+                <h5>Country: @Html.DisplayFor(item => item.Country)</h5>
+                <h5>Released: @Html.DisplayFor(item => item.Released)</h5>
+                <h5>Director: @Html.DisplayFor(item => item.Director)</h5>
+                <h5>Writer: @Html.DisplayFor(item => item.Writer)</h5>
+                <h5>Language: @Html.DisplayFor(item => item.Language)</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="actors" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Read more</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Actors: @Html.DisplayFor(item => item.Actors)</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
